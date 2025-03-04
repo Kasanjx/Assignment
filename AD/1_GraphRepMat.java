@@ -1,3 +1,5 @@
+//code implementation for graph rep. using AdjacencyMatrix
+//data structure: Array
 import java.util.*;
 
 public class Ques1 {
